@@ -37,8 +37,15 @@ A smart and user-friendly tool to optimize resumes using OpenAI’s GPT-4o-mini 
 - OpenAI API Key (GPT-4o-mini access)
 - WeasyPrint dependencies installed (Linux or Colab recommended)
 
-### 🧰 Installation
+---
 
-```bash
-pip install openai gradio markdown weasyprint
+#🔮 Future Improvements / Scope
+-📄 Allow users to upload resumes directly in PDF format for parsing and optimization
 
+-🧾 Preserve the original visual formatting (margins, fonts, section styles) in the optimized output
+
+-📊 Display ATS (Applicant Tracking System) score before and after optimization to visualize improvement
+
+-🌐 Add multi-language support for non-English resumes
+
+-🪄 Offer resume formatting templates (modern, ATS-friendly, academic, minimalist)
