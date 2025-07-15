@@ -39,7 +39,7 @@ A smart and user-friendly tool to optimize resumes using OpenAI’s GPT-4o-mini 
 
 ---
 
-#🔮 Future Improvements / Scope
+# 🔮 Future Improvements / Scope
 -📄 Allow users to upload resumes directly in PDF format for parsing and optimization
 
 -🧾 Preserve the original visual formatting (margins, fonts, section styles) in the optimized output
